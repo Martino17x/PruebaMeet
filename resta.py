@@ -1,1 +1,2 @@
-print('resta')
+def resta ():
+    print('resta')
