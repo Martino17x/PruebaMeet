@@ -1,2 +1,3 @@
 def resta ():
-    print('resta')
+
+    
